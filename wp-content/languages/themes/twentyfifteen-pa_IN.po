@@ -1,0 +1,289 @@
+# Translation of Themes - Twenty Fifteen in Punjabi
+# This file is distributed under the same license as the Themes - Twenty Fifteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-27 03:21:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pa_IN\n"
+"Project-Id-Version: Themes - Twenty Fifteen\n"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Fifteen"
+msgstr "ਵੀਹ ਪੰਦਰਾਂ"
+
+#. translators: %s: post title
+#: inc/template-tags.php:123
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s 'ਤੇ</span> ਟਿੱਪਣੀ ਕਰੋ।"
+
+#: single.php:37
+msgid "Previous post:"
+msgstr "ਪਿਛਲਾ ਪੋਸਟ"
+
+#: single.php:36
+msgid "Previous"
+msgstr "ਪਿਛਲਾ"
+
+#: single.php:34
+msgid "Next post:"
+msgstr "ਅਗਲਾ ਪੋਸਟ "
+
+#: single.php:33
+msgid "Next"
+msgstr "ਅਗਲਾ "
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "%s ਲਈ ਖੋਜ ਨਤੀਜੇ"
+
+#: inc/template-tags.php:113
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "ਪੂਰਾ ਅਕਾਰ"
+
+#: inc/template-tags.php:102
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "ਟੈਗ"
+
+#: inc/template-tags.php:94
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "ਸ਼੍ਰੇਣੀਆਂ"
+
+#: inc/template-tags.php:91 inc/template-tags.php:99
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:85
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "ਲੇਖਕ"
+
+#: inc/template-tags.php:76
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "ਸੰਪਾਦਿਤ ਹੋਇਆ(ਨੂੰ)"
+
+#: inc/template-tags.php:55
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "ਬਣਾਵਟ"
+
+#: inc/template-tags.php:49
+msgid "Featured"
+msgstr "ਚੁਣਿਆ ਹੋਇਆ"
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr "ਨਵੀਆਂ ਟਿੱਪਣੀਆਂ"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr "ਪੁਰਾਣੀਆਂ ਟਿੱਪਣੀਆਂ "
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "ਟਿੱਪਣੀ ਨੇਵੀਗੇਸ਼ਨ"
+
+#: inc/customizer.php:205
+msgid "Blue"
+msgstr "ਨੀਲਾ"
+
+#: inc/customizer.php:194
+msgid "Purple"
+msgstr "ਬੈਂਗਣੀ"
+
+#: inc/customizer.php:183
+msgid "Pink"
+msgstr "ਗੁਲਾਬੀ"
+
+#: inc/customizer.php:172
+msgid "Yellow"
+msgstr "ਪੀਲਾ"
+
+#: inc/customizer.php:161
+msgid "Dark"
+msgstr "ਗੂੜ੍ਹਾ"
+
+#: inc/customizer.php:150
+msgid "Default"
+msgstr "ਡੀਫਾਲਟ"
+
+#: inc/customizer.php:75
+msgid "Header and Sidebar Background Color"
+msgstr "ਹੈਡਰ ਅਤੇ ਸਾਈਡਬਾਰ ਪਿਛੋਕੜ ਰੰਗ"
+
+#: inc/customizer.php:60 inc/customizer.php:76 inc/customizer.php:81
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr "ਛੋਟੀਆਂ ਸਕ੍ਰੀਨਾਂ ਦੇ ਹੈਡਰਾਂ ਅਤੇ ਵੱਡੀਆਂ ਸਕ੍ਰੀਨਾਂ ਦੇ ਸਾਈਡਬਾਰਾਂ 'ਤੇ ਲਾਗੂ ਹੋਵੇਗਾ।"
+
+#: inc/customizer.php:59
+msgid "Header and Sidebar Text Color"
+msgstr "ਹੈਡਰ ਅਤੇ ਸਾਈਡਬਾਰ ਲਿਖਤ ਰੰਗ"
+
+#: inc/back-compat.php:37 inc/back-compat.php:47 inc/back-compat.php:60
+msgid "Twenty Fifteen requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "ਵੀਹ ਪੰਦਰਾਂ ਲਈ ਵਰਡਪ੍ਰੈਸ ਦਾ ਘੱਟੋ-ਘੱਟ ਸੰਸਕਰਣ 4.1 ਚਾਹੀਦਾ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ %s ਸੰਸਕਰਣ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇਸਨੂੰ ਉੱਨਤ ਕਰਕੇ ਫਿਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+
+#: image.php:84
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">ਸੰਪਾਦਿਤ ਹੋਇਆ (ਵਿੱਚ)</span><span class=\"post-title\">%title</span>"
+
+#: image.php:24
+msgid "Next Image"
+msgstr "ਅਗਲਾ ਚਿੱਤਰ"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "ਪਿਛਲਾ ਚਿੱਤਰ "
+
+#: header.php:45
+msgid "Menu and widgets"
+msgstr "ਮੇਨੂ ਅਤੇ ਵਿਜਟ"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "ਸਿਧੇ ਕਾੰਟੈਂਟ"
+
+#: functions.php:283
+msgid "collapse child menu"
+msgstr "ਛੋਟਾ ਮੇਨੂ ਇਕੱਠਾ ਕਰੋ"
+
+#: functions.php:282
+msgid "expand child menu"
+msgstr "ਛੋਟਾ ਮੇਨੂ ਫੈਲਾਓ"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:204
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "ਚਾਲੂ"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:196
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr "ਚਾਲੂ"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:188
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr "ਚਾਲੂ"
+
+#: functions.php:162
+msgid "Add widgets here to appear in your sidebar."
+msgstr "ਸਾਈਡਬਾਰ ਵਿੱਚ ਦਿਖਾਉਣ ਲਈ ਵਿਜਟ ਇੱਥੇ ਜੋੜੋ।"
+
+#: functions.php:160
+msgid "Widget Area"
+msgstr "ਵਿਜਟ ਖੇਤਰ"
+
+#: functions.php:86
+msgid "Social Links Menu"
+msgstr "ਸਮਾਜਿਕ ਕੜੀਆਂ ਵਾਲਾ ਮੇਨੂ"
+
+#: functions.php:85
+msgid "Primary Menu"
+msgstr "ਮੁੱਖ ਸੂਚੀ"
+
+#: footer.php:25
+msgid "Proudly powered by %s"
+msgstr "%s ਨਾਲ ਜਾਰੀ"
+
+#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 1.8)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "ਜੋ ਤੁਸੀਂ ਦੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ ਉਹ ਨਹੀਂ ਲੱਭਿਆ। ਸ਼ਾਇਦ ਖੋਜਣ ਨਾਲ ਤੁਹਾਨੂੰ ਮਦਦ ਮਿਲ ਸਕਦੀ ਹੈ।"
+
+#: content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ਮੁਆਫ਼ ਕਰਨਾ, ਪਰ ਖੋਜ ਲਈ ਤੁਹਾਡੇ ਦੁਆਰਾ ਵਰਤੇ ਗਏ ਸ਼ਬਦ ਨਾਲ ਮੇਲ ਖਾਂਦੀ ਕੋਈ ਚੀਜ਼ ਨਹੀਂ ਲੱਭੀ। ਕਿਰਪਾ ਕਰਕੇ ਕਿਸੇ ਹੋਰ ਸ਼ਬਦ ਨਾਲ ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
+
+#: content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "ਕੀ ਤੁਸੀਂ ਆਪਣੀ ਪਹਿਲੀ ਸੰਪਾਦਨਾ ਛਾਪਣ ਲਈ ਤਿਆਰ ਹੋ? <a href=\"%1$s\">ਇੱਥੇ ਸ਼ੁਰੂ ਕਰੋ</a>।"
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "ਕੁਛ ਨਹੀਂ ਲਾਭਾ "
+
+#: content-link.php:56 content-page.php:35 content-search.php:28
+#: content-search.php:33 content.php:57 image.php:71
+msgid "Edit"
+msgstr "ਸੰਪਾਦਤ ਕਰੋ "
+
+#: content-link.php:36 content-page.php:25 content.php:38 image.php:59
+msgid "Pages:"
+msgstr "ਪੇਜਿਜ਼"
+
+#. translators: %s: Name of current post
+#: content-link.php:31 content.php:33 inc/template-tags.php:238
+msgid "Continue reading %s"
+msgstr "ਅੱਗੇ ਪੜ੍ਹੋ %s"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "ਟਿਪਣੀਆਂ ਬੰਦ ਹਨ "
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; 'ਤੇ ਇੱਕ ਵਿਚਾਰ।"
+msgstr[1] "&ldquo;%2$s&rdquo; 'ਤੇ %1$s ਵਿਚਾਰ।"
+
+#: author-bio.php:34
+msgid "View all posts by %s"
+msgstr "%s ਵੱਲੋਂ ਸਾਰੀਆਂ ਪੋਸਟਸ ਵੇਖੋ "
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr "ਦੁਆਰਾ ਪ੍ਰਕਾਸ਼ਿਤ"
+
+#: archive.php:51 content-link.php:40 content-page.php:29 content.php:42
+#: image.php:63 index.php:48 search.php:40
+msgid "Page"
+msgstr "ਪੰਨਾ"
+
+#: archive.php:50 index.php:47 search.php:39
+msgid "Next page"
+msgstr "ਅਗਲਾ ਪੰਨਾ"
+
+#: archive.php:49 index.php:46 search.php:38
+msgid "Previous page"
+msgstr "ਪਿਛਲਾ ਪੰਨਾ"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "ਇਸ ਜਗ੍ਹਾ 'ਤੇ ਕੁਝ ਨਹੀਂ ਲੱਭਿਆ। ਖੋਜਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋਗੇ?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "ਅਫਸੋਸ! ਉਹ ਪੰਨਾ ਨਾ ਲੱਭਿਆ"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "Wordpress ਟੀਮ"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyfifteen/"
+msgstr "https://wordpress.org/themes/twentyfifteen/"
